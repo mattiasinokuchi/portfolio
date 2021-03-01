@@ -2,4 +2,7 @@ body {
 	background-image:
 		repeating-linear-gradient(90deg,rgb(150, 0, 0, 0.5),rgb(150, 0, 0, 0.5) 5vw, rgb(256, 256, 256, 0.5) 5vw, rgb(256, 256, 256, 0.5) 10vw),
 		repeating-linear-gradient(180deg, rgb(150, 0, 0, 0.5),rgb(150, 0, 0, 0.5) 5vw, rgb(256, 256, 256, 0.5) 5vw, rgb(256, 256, 256, 0.5) 10vw);
+	font-family: 'Courier New', Courier, monospace;
+	text-shadow: 0vw 0vw 0.1vw blue, 0vw 0vw 4vw white, 0vw 0vw 4vw white, 0vw 0vw 4vw white, 0vw 0vw 4vw white, 0vw 0vw 4vw white, 0vw 0vw 4vw white, 0vw 0vw 4vw white, 0vw 0vw 4vw white, 0vw 0vw 4vw white;
+	text-align: center;
 }
