@@ -4,13 +4,4 @@
 <p>Scroll down</p>
 
 <style>
-    header {
-        padding-top: 30vh;
-    }
-    h1 {
-        font-size: 5vw;
-    }
-    p {
-        font-size: 3vw;
-    }
 </style>
