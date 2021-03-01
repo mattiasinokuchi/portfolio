@@ -1,8 +1,8 @@
 <script>
 	let projects = [
-		{ id: 'J---aiyznGQ', name: '😀 Multiplication driller' },
-		{ id: 'z_AbfPXTKms', name: '😀 Japanese speaking memory game' },
-		{ id: 'OUtn3pvWmpg', name: '🙂 Seeding machine calculator' }
+		{ name: '😀 Multiplication driller', href: 'https://mattiasinokuchi.github.io/multiplication/' },
+		{ name: '😀 Japanese speaking memory game', href: 'https://mattiasinokuchi.github.io/memory/' },
+		{ name: '🙂 Seeding machine calculator' , href: 'https://mattiasinokuchi.github.io/seedingcalculator/' }
 	];
 </script>
 
@@ -11,9 +11,11 @@
 </header>
 
 <ul>
-	{#each projects as { id, name }}
-		<li><a target="_blank" href="https://www.youtube.com/watch?v={id}">
-		    {name}
-		</a></li>
+	{#each projects as { name, href }}
+		<li>
+            <a target="_blank" href={href}>
+		        {name}
+		    </a>
+        </li>
 	{/each}
 </ul>
