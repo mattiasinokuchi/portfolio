@@ -43,11 +43,6 @@
         top: 50%;
     }
 
-    h2 {
-        font-size: 4vw;
-        padding-top: 40vh;
-    }
-
     a {
         text-decoration: none;
         font-size: 3vw;

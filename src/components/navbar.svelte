@@ -1,4 +1,5 @@
 <style>
+
     nav {
         position: fixed;
         z-index: 1;
@@ -15,6 +16,7 @@
         text-decoration: none;
         color: black;
     }
+    
 </style>
 
 <nav id="navbar">

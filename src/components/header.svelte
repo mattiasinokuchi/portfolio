@@ -3,13 +3,4 @@
 
 <style>
 
-    h1 {
-        font-size: 5vw;
-        padding-top: 30vh;
-    }
-
-    h3 {
-        font-size: 3vw;
-    }
-
 </style>
