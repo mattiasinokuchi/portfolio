@@ -1,4 +1,23 @@
-<h3>Get in touch with me!</h3>
+<style>
+    input, textarea, button {
+        font-size: 3vw;
+    }
+
+    input, textarea {
+        width: 40vw;
+        height: 10vh;
+    }
+
+    textarea {
+        height: 20vh;
+    }
+
+    label {
+        display: block;
+    }
+</style>
+
+<h2>Get in touch with me!</h2>
 <form name="contact" method="POST" data-netlify="true">
     <p>
         <label for="Name">Name</label>
