@@ -16,21 +16,21 @@
         },
 		{
             name: '🙂 Seeding machine calculator',
-            description: 'My first idea was to build web applications for people near me. There is a risk my brother in law is the only one using this one (but I think he is worth that).',
+            description: 'My first idea was to build web applications for people near me. My brother-in-law might be the only one using this one (but he is worth that).',
             href: 'https://mattiasinokuchi.github.io/seedingcalculator/',
             alt: 'screenshot showing a calculator',
             src: 'https://raw.githubusercontent.com/mattiasinokuchi/seedingcalculator/master/screenshot.png'
         },
         {
             name: '😀 URL Shortener Microservice',
-            description: 'Started freeCodeCamp (nonprofit organization whichs helps people learn to code). Never started on any of the projects in the curriculum for front-end frameworks (tools for writing more complex websites). I felt the mayor framework (React) was difficult and might be outdated before I could make use of it. Headed on with the curriculum and had my first back-end challenge with Node.js and MongoDB (server programming and database). Sense of wonder. Suddenly I felt in control of a invisible force.',
+            description: 'My first back-end challenge from freeCodeCamp with Node.js and a database. Sense of wonder and magic power.',
             href: 'https://url-shortener.mattiasinokuchi.repl.co',
             alt: 'screenshot of an app which has shortened a URL',
             src: 'https://raw.githubusercontent.com/mattiasinokuchi/url-shortener/gomix/screenshot.png'
         },
         {
-            name: '🙂 The little census</h3',
-            description: "Pandemia came. My Sister needed to count visitors on a event. Took some time off from freeCodeCamp to practice authorization (login/logout) localization (web page in your prefered language automatically) and a template engine (each user can have it's own content on a web page). Felt very mature when finished (but my Sisters event was gone long ago).",
+            name: '🙂 The little census',
+            description: "My Sister needed a visitor counter due to the Pandemia. Practiced authentication, localization and server rendering. The event was gone long before I finished.",
             href: 'http://little-census.se/" target="_blank" class="project-tile',
             alt: 'screenshot of an app which counts people',
             src: 'https://raw.githubusercontent.com/mattiasinokuchi/little-census/main/screenshot.png'
@@ -44,7 +44,7 @@
         },
         {
             name: '🙂 Issue Tracker',
-            description: 'freeCodeCamp dipped my feets deeper in MongoDB and I felt like using rubber boots like Mongoose (a set of programming functions to help using the MongoDB database).',
+            description: 'freeCodeCamp dipped me deeper in back-end programming with Node.js, Express and Mongoose.',
             href: 'https://issue-tracker.mattiasinokuchi.repl.co/" target="_blank" class="project-tile',
             alt: 'screenshot of an app for keeping track of issues',
             src: 'https://raw.githubusercontent.com/mattiasinokuchi/issue-tracker/gomix/screenshot.png'
@@ -58,7 +58,7 @@
         },
         {
             name: '🙂 American / British English Translator',
-            description: 'Regular expressions is a good old concept dating back to the 1950s for writing programs that finds characters, words or sentences. I would never gone near things like "(?&lt!\\w|-)" without this gentle kick on my but from freeCodeCamp.',
+            description: 'freeCodeCamp challenge. I wonder if I will remember regular expressions like "(?&lt!\\w|-)".',
             href: 'https://american-british-english-translator.mattiasinokuchi.repl.co/" target="_blank" class="project-tile',
             alt: 'screenshot of an app which translates between american and brittish english',
             src: 'https://raw.githubusercontent.com/mattiasinokuchi/american-british-english-translator/master/screenshot.png'
