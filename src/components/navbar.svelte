@@ -9,6 +9,12 @@
         justify-content: space-evenly;
         align-items: center;
     }
+
+    a {
+        font-size: 3vw;
+        text-decoration: none;
+        color: black;
+    }
 </style>
 
 <nav id="navbar">
