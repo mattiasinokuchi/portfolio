@@ -3,9 +3,9 @@
 <script>
 	import Navbar from './components/navbar.svelte';
 	import Header from './components/header.svelte';
-	import List from './components/list.svelte'
+	import Projects from './components/projects.svelte'
 </script>
 
 <Navbar/>
 <Header/>
-<List/>
+<Projects/>
