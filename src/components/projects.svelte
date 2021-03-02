@@ -43,6 +43,11 @@
         top: 50%;
     }
 
+    h2 {
+        font-size: 4vw;
+        padding-top: 40vh;
+    }
+
     a {
         text-decoration: none;
         font-size: 3vw;
@@ -56,9 +61,7 @@
 
 </style>
 
-<header>
-    <h2>Web projects from past to present</h2>
-</header>
+<h2>Web projects from past to present</h2>
 
 <ul>
 	{#each projects as { name, description, href, alt, src }}
