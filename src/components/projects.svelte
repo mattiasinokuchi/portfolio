@@ -54,6 +54,10 @@
         margin-top: 11vw;
     }
 
+    div {
+        width: 40vw;
+    }
+
 </style>
 
 <h2>Web projects from past to present</h2>
@@ -64,8 +68,10 @@
             <a target="_blank" href={href}>
                 <img alt={alt} src={src}>
 		    </a>
-            <h3>{name}</h3>
-            <p>{description}</p>
         </li>
-	{/each}
+        <div>
+            <h3>{name}</h3>
+            <p>{description}</p>    
+        </div>
+{/each}
 </ul>
