@@ -2,18 +2,21 @@
 	let projects = [
 		{
             name: '😀 Multiplication driller',
+            description: 'Made my first web app and discovered it was hard to stop styling things with CSS.',
             href: 'https://mattiasinokuchi.github.io/multiplication/',
             alt: 'screenshot showing 8x9=72',
             src: 'https://raw.githubusercontent.com/mattiasinokuchi/multiplication/master/screenshot.png'
         },
 		{
             name: '😀 Japanese speaking memory game',
+            description: 'Next project was clearly over my level but I had fun and learned by poking around with code from more clever people.',
             href: 'https://mattiasinokuchi.github.io/memory/',
             alt: 'screenshot showing memory game with animals',
             src: 'https://raw.githubusercontent.com/mattiasinokuchi/memory/master/screenshot.png'
         },
 		{
             name: '🙂 Seeding machine calculator',
+            description: 'My first idea was to build web applications for people near me. There is a risk my brother in law is the only one using this one (but I think he is worth that).',
             href: 'https://mattiasinokuchi.github.io/seedingcalculator/',
             alt: 'screenshot showing a calculator',
             src: 'https://raw.githubusercontent.com/mattiasinokuchi/seedingcalculator/master/screenshot.png'
@@ -58,12 +61,13 @@
 </header>
 
 <ul>
-	{#each projects as { name, href, alt, src }}
+	{#each projects as { name, description, href, alt, src }}
 		<li>
             <a target="_blank" href={href}>
                 <img alt={alt} src={src}>
 		    </a>
             <h3>{name}</h3>
+            <p>{description}</p>
         </li>
 	{/each}
 </ul>
