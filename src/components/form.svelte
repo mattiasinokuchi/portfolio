@@ -15,6 +15,24 @@
     label {
         display: block;
     }
+
+    @media (max-width: 800px) {
+        
+        input, textarea, button {
+            font-size: 6vw;
+        }
+
+        input, textarea {
+            width: 80vw;
+            height: 10vh;
+        }
+
+        textarea {
+            height: 20vh;
+        }
+
+    }
+
 </style>
 
 <h2>Get in touch with me!</h2>
