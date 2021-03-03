@@ -4,6 +4,7 @@ body {
 		repeating-linear-gradient(180deg, rgb(150, 0, 0, 0.4),rgb(150, 0, 0, 0.4) 5vw, rgb(256, 256, 256, 0.4) 5vw, rgb(256, 256, 256, 0.4) 10vw);
 	font-family: 'Courier New', Courier, monospace;
 	text-align: center;
+	text-shadow: 0vw 0vw 0.1vw white;
 }
 
 h1 {
@@ -16,11 +17,22 @@ h2 {
 	padding-top: 40vh;
 }
 
-h3, p {
+h3, p, a {
 	font-size: 3vw;
 }
 
-
-h1, h2, h3, a, p {
-	text-shadow: 0vw 0vw 0.1vw blue;
+@media (max-width: 800px) {
+	h1 {
+		font-size: 15vw;
+		padding-top: 20vw;
+	}
+	
+	h2 {
+		font-size: 8vw;
+		padding-top: 20vw;
+	}
+	
+	h3, p, a {
+		font-size: 5vw;
+	}
 }

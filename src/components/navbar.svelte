@@ -10,13 +10,13 @@
         justify-content: space-evenly;
         align-items: center;
     }
-
-    a {
-        font-size: 3vw;
-        text-decoration: none;
-        color: black;
-    }
     
+    @media (max-width: 800px) {
+        nav {
+            height: 10vw;
+        }
+    }
+
 </style>
 
 <nav id="navbar">
