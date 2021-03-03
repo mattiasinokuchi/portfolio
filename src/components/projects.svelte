@@ -98,6 +98,7 @@
 
     div {
         width: 40vw;
+        margin-bottom: 5vw;
     }
 
     @media (max-width: 800px) {
@@ -113,6 +114,7 @@
 
         div {
             width: 90vw;
+            margin-bottom: 10vw;
         }
 
         img {
