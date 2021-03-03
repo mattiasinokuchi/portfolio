@@ -100,6 +100,28 @@
         width: 40vw;
     }
 
+    @media (max-width: 800px) {
+
+        li {
+            width: 80vw;
+            height: 80vw;
+            margin-bottom: 1vw;
+            border-radius: 80vw;
+            box-shadow: inset -0.2vw -0.2vw 0.4vw 0.4vw grey, inset 0 0 1vw 2vw white, inset 4vw 4vw 1vw 1vw grey, inset 0 0 4vw 4vw grey, 2vw 2vw 2vw 2vw rgb(0, 0, 0, 0.7);
+
+        }
+
+        div {
+            width: 90vw;
+        }
+
+        img {
+            width: 50vw;
+            margin-top: 22vw;
+        }
+
+    }
+
 </style>
 
 <h2>Web projects from past to present</h2>
