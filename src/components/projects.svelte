@@ -1,4 +1,7 @@
 <script>
+
+    import { bookStore } from './stores.js';
+
 	let projects = [
 		{
             name: '😀 Multiplication driller',
@@ -125,6 +128,13 @@
     }
 
 </style>
+
+
+<ul>
+    {#each $bookStore as book}
+     <li>{book.name} - {book.author}</li>
+    {/each} 
+</ul>
 
 <h2 id="projects">Web projects from past to present</h2>
 
