@@ -126,7 +126,7 @@
 
 </style>
 
-<h2>Web projects from past to present</h2>
+<h2 id="projects">Web projects from past to present</h2>
 
 <ul>
 	{#each projects as { name, description, href, alt, src }}
