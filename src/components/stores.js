@@ -5,7 +5,7 @@ export let bookStore = readable([
         name: '😀 Multiplication driller',
         description: 'Made my first web app and discovered it was hard to stop styling things with CSS.',
         href: 'https://mattiasinokuchi.github.io/multiplication/',
-        alt: 'screenshot showing 8x9=72',
+        alt: 'screenshot showing eight times nine is equal to seventy-two',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/multiplication/master/screenshot.png'
     },
     {
