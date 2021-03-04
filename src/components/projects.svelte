@@ -1,7 +1,7 @@
 <script>
 
-    import { bookStore } from './stores.js';
-    
+    import { projects } from './stores.js';
+
 </script>
 
 <style>
@@ -67,15 +67,15 @@
 <h2 id="projects">Web projects from past to present</h2>
 
 <ul>
-    {#each $bookStore as book}
+    {#each $projects as project}
         <li>
-            <a target="_blank" href={book.href}>
-                <img alt={book.alt} src={book.src}>
+            <a target="_blank" href={project.href}>
+                <img alt={project.alt} src={project.src}>
 		    </a>
         </li>
         <div>
-            <h3>{book.name}</h3>
-            <p>{book.description}</p>    
+            <h3>{project.name}</h3>
+            <p>{project.description}</p>    
         </div>
     {/each} 
 </ul>

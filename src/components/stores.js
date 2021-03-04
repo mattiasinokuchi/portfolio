@@ -1,6 +1,6 @@
 import { readable } from 'svelte/store';
 
-export let bookStore = readable([
+export let projects = readable([
     {
         name: '😀 Multiplication driller',
         description: 'Made my first web app and discovered it was hard to stop styling things with CSS.',
