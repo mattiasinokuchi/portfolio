@@ -17,7 +17,7 @@ export let projects = readable([
     },
     {
         name: '🙂 Seeding machine calculator',
-        description: 'My first idea was to build web applications for people near me. My brother-in-law might be the only one using this one (but he is worth that).',
+        description: 'My first idea was to build web applications for people near me. My brother-in-law might be the only one using this one.',
         href: 'https://mattiasinokuchi.github.io/seedingcalculator/',
         alt: 'screenshot showing a calculator',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/seedingcalculator/master/screenshot.png'
