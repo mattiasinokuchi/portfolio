@@ -11,6 +11,10 @@ body {
 h1 {
 	font-size: 5vw;
 	padding-top: 30vh;
+	animation-name: colorchange;
+	animation-direction: alternate;
+	animation-duration: 1s;
+	animation-iteration-count: infinite;
 }
 
 h2 {
@@ -22,6 +26,11 @@ h3, p, a {
 	font-size: 3vw;
 }
 
+@keyframes colorchange {
+	0% { text-shadow: white 0px 0px 0px }
+	100% { text-shadow: white 0px 0px 0.5vw; }
+}
+  
 @media (max-width: 800px) {
 	h1 {
 		font-size: 15vw;
