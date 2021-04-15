@@ -53,7 +53,7 @@ export let projects = readable([
     {
         name: '😂 Sudoku solver',
         description: 'Likely to be a memory for the rest of my life from freeCodeCamp. I still get tears in my eyes when I tell people about the moment a soduku solution popped out on the screen.',
-        href: 'https://sudoku-solver.mattiasinokuchi.repl.co/" target="_blank" class="project-tile',
+        href: "https://sudoku-solver.mattiasinokuchi.repl.co" target="_blank" class="project-tile',
         alt: 'screenshot of an app which solves sudoku',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/sudoku-solver/master/screenshot.png'
     },
