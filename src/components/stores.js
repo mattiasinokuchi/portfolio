@@ -23,45 +23,45 @@ export let projects = readable([
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/seedingcalculator/master/screenshot.png'
     },
     {
-        name: '😀 URL Shortener Microservice',
-        description: 'My first back-end challenge from freeCodeCamp with Node.js and a database. Sense of wonder and magic power.',
-        href: 'https://url-shortener.mattiasinokuchi.repl.co',
-        alt: 'screenshot of an app which has shortened a URL',
-        src: 'https://raw.githubusercontent.com/mattiasinokuchi/url-shortener/gomix/screenshot.png'
-    },
-    {
         name: '🙂 The little census',
         description: "My Sister needed a visitor counter due to the Pandemia. Authentication, localization and server rendering...the event was gone long before I learned.",
-        href: 'http://little-census.se/" target="_blank" class="project-tile',
+        href: 'http://little-census.se/',
         alt: 'screenshot of an app which counts people',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/little-census/main/screenshot.png'
     },
     {
         name: '🙂 Metric-Imperial Converter',
         description: 'Back to school at freeCodeCamp. Discovered the ease of having a program testing a program.',
-        href: 'https://metric-imp-converter.mattiasinokuchi.repl.co" target="_blank" class="project-tile',
+        href: 'https://metric-imp-converter.mattiasinokuchi.repl.co',
         alt: 'screenshot of an app which converts between metic and imperial units',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/metric-imp-converter/gomix/screenshot.png'
     },
     {
         name: '🙂 Issue Tracker',
         description: 'freeCodeCamp dipped me deeper in back-end programming with Node.js, Express and Mongoose.',
-        href: 'https://issue-tracker.mattiasinokuchi.repl.co/" target="_blank" class="project-tile',
+        href: 'https://issue-tracker.mattiasinokuchi.repl.co/',
         alt: 'screenshot of an app for keeping track of issues',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/issue-tracker/gomix/screenshot.png'
     },
     {
         name: '😂 Sudoku solver',
         description: 'Likely to be a memory for the rest of my life from freeCodeCamp. I still get tears in my eyes when I tell people about the moment a soduku solution popped out on the screen.',
-        href: "https://sudoku-solver.mattiasinokuchi.repl.co" target="_blank" class="project-tile',
+        href: 'https://sudoku-solver.mattiasinokuchi.repl.co',
         alt: 'screenshot of an app which solves sudoku',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/sudoku-solver/master/screenshot.png'
     },
     {
         name: '🙂 American / British English Translator',
         description: 'freeCodeCamp challenge. I wonder if I will remember regular expressions like "(?&lt!\\w|-)".',
-        href: 'https://american-british-english-translator.mattiasinokuchi.repl.co/" target="_blank" class="project-tile',
+        href: 'https://american-british-english-translator.mattiasinokuchi.repl.co/',
         alt: 'screenshot of an app which translates between american and brittish english',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/american-british-english-translator/master/screenshot.png'
+    },
+    {
+        name: '😀 URL Shortener',
+        description: 'A faster version of my first back-end challenge from freeCodeCamp using Svelte, serverless functions and MongoDB.',
+        href: 'https://re-url.vercel.app',
+        alt: 'screenshot of an app which shortens a URL',
+        src: 'https://github.com/mattiasinokuchi/serverless-url-shortener/blob/master/screenshot.png?raw=true'
     }
 ]);
