@@ -1,21 +1,16 @@
 <h2>Get in touch with me!</h2>
 <form name="contact" method="POST" data-netlify="true">
     <p>
-        <label>Your Name: <input type="text" name="name" /></label>
+        <label for="Name">Name</label>
+        <input type="text" id="name" name="name" />
     </p>
     <p>
-        <label>Your Email: <input type="email" name="email" /></label>
+        <label for="email">Email</label>
+        <input type="text" id="email" name="email" />
     </p>
     <p>
-        <label
-            >Your Role: <select name="role[]" multiple>
-                <option value="leader">Leader</option>
-                <option value="follower">Follower</option>
-            </select></label
-        >
-    </p>
-    <p>
-        <label>Message: <textarea name="message" /></label>
+        <label for="message">Message</label>
+        <textarea id="message" name="message" />
     </p>
     <p>
         <button type="submit">Send</button>
