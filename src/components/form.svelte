@@ -36,7 +36,12 @@
 </style>
 
 <h2>Get in touch with me!</h2>
-<form name="contact" method="POST" data-netlify="true">
+<form
+    name="contact"
+    method="POST"
+    data-netlify="true"
+    Content-Type="application/x-www-form-urlencoded"
+    >
     <p>
         <label for="Name">Name</label>
         <input type="text" id="name" name="name" />
