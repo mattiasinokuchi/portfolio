@@ -1,5 +1,7 @@
 <h2>Get in touch with me!</h2>
 <form name="contact" method="POST" data-netlify="true">
+    <!--Hidden input field needed for form handling in Netlify-->
+    <input type="hidden" name="form-name" value="contact" />
     <p>
         <label for="Name">Name</label>
         <input type="text" id="name" name="name" />
