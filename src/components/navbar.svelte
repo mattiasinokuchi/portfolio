@@ -22,5 +22,6 @@
 <nav id="navbar">
     <a href="#projects">Projects</a>
     <a href="#links">Links</a>
+    <a href="#contact">Contact</a>
 </nav>
 
