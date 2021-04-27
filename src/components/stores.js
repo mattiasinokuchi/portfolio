@@ -24,7 +24,7 @@ export let projects = readable([
     },
     {
         name: '🙂 The little census',
-        description: "My Sister needed a visitor counter due to the Pandemia. Authentication, localization and server rendering...the event was gone long before I learned.",
+        description: "My Sister needed a visitor counter due to the Pandemia. Authentication, localization and server rendering...the event was gone long before I learned it :-)",
         href: 'http://little-census.se/',
         alt: 'screenshot of an app which counts people',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/little-census/main/screenshot.png'
