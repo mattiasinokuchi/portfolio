@@ -42,7 +42,8 @@
     h1 {
         font-size: 5vw;
         width: 40vh;
-        margin-left: 20vw;
+        margin-left: 5vw;
+        margin-top: 20vh;
         text-align: center;
     }
 
