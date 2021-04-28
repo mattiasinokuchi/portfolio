@@ -8,20 +8,11 @@ body {
 	text-shadow: 0vw 0vw 1vw white, 0vw 0vw 2vw white, 0vw 0vw 3vw white;
 }
 
-h2 {
-	font-size: 4vw;
-	padding-top: 40vh;
-}
-
 h3, p, a {
 	font-size: 3vw;
 }
   
 @media (max-width: 800px) {
-	h2 {
-		font-size: 8vw;
-		padding-top: 20vw;
-	}
 	
 	h3, p, a {
 		font-size: 5vw;
