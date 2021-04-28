@@ -36,19 +36,19 @@
     header {
         height: 100vh;
         display: flex;
+        margin-top: 10vh;
     }
 
     h1 {
         font-size: 5vw;
         width: 40vh;
-        margin-left: 10vw;
-        margin-top: 10vw;
+        margin-left: 20vw;
         text-align: center;
     }
 
     img {
         height: 60vh;
-        margin-top: 10vw;
+        margin-top: 10vh;
         background: white;
         padding: 2vw;
         border: 1px solid grey;
@@ -67,7 +67,7 @@
         }
 
         img {
-            height: 40vh;
+            height: 30vh;
         }
     }
 </style>
