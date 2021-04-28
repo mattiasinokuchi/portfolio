@@ -20,9 +20,14 @@
 </form>
 
 <style>
-    input,
-    textarea,
+    h2 {
+        font-size: 4vw;
+        text-align: center;
+    }
+
+    form,
     button {
+        text-align: center;
         font-size: 3vw;
     }
 

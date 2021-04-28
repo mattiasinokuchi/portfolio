@@ -23,3 +23,21 @@
     rel="noopener noreferrer">Social media?</a
   >
 </p>
+
+<style>
+  h2 {
+    font-size: 4vw;
+    text-align: center;
+  }
+
+  p, a {
+    font-size: 3vw;
+    text-align: center;
+  }
+
+  @media (max-width: 800px) {
+    p, a {
+      font-size: 5vw;
+    }
+  }
+</style>

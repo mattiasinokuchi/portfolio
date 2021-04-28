@@ -21,7 +21,15 @@
 <style>
     h2 {
         font-size: 4vw;
-        padding-top: 40vh;
+        padding-top: 100vh;
+    }
+
+    h3 {
+        font-size: 3vw;
+    }
+
+    p {
+        font-size: 3vw;
     }
 
     ul {
@@ -29,6 +37,7 @@
         flex-wrap: wrap;
         justify-content: space-evenly;
         list-style-type: none;
+        text-align: center;
     }
 
     li {
@@ -64,6 +73,14 @@
             font-size: 8vw;
             padding-top: 20vw;
             margin-top: 20vh;
+        }
+
+        h3 {
+            font-size: 5vw;
+        }
+
+        p {
+            font-size: 5vw;
         }
 
         li {
