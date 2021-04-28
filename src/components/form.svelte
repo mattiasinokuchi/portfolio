@@ -23,6 +23,7 @@
     h2 {
         font-size: 4vw;
         text-align: center;
+        padding-top: 20vh;
     }
 
     form,
@@ -46,10 +47,15 @@
     }
 
     @media (max-width: 800px) {
+        h2 {
+            font-size: 7vw;
+            margin-top: 20vw;
+        }
+
         input,
         textarea,
         button {
-            font-size: 6vw;
+            font-size: 5vw;
         }
 
         input,

@@ -28,6 +28,7 @@
   h2 {
     font-size: 4vw;
     text-align: center;
+    padding-top: 20vh;
   }
 
   p, a {
@@ -36,6 +37,10 @@
   }
 
   @media (max-width: 800px) {
+    h2 {
+      font-size: 7vw;
+    }
+
     p, a {
       font-size: 5vw;
     }

@@ -22,44 +22,52 @@
     }
 </script>
 
-<img
-    src="https://raw.githubusercontent.com/mattiasinokuchi/portfolio/main/src/assets/me.jpeg"
-    alt="me eating icecream"
-/>
-{#if showText}
-    <h1 transition:fade>{showText}</h1>
-{/if}
+<header>
+    <img
+        src="https://raw.githubusercontent.com/mattiasinokuchi/portfolio/main/src/assets/me.jpeg"
+        alt="me eating icecream"
+    />
+    {#if showText}
+        <h1 transition:fade>{showText}</h1>
+    {/if}
+</header>
 
 <style>
+    header {
+        height: 100vh;
+        display: flex;
+    }
+
     h1 {
         font-size: 5vw;
-        width: 40vw;
-        margin-left: 50vw;
-        position: absolute;
+        width: 40vh;
+        margin-left: 10vw;
+        margin-top: 10vw;
+        text-align: center;
     }
+
     img {
-        width: 25vw;
+        height: 60vh;
         margin-top: 10vw;
         background: white;
         padding: 2vw;
         border: 1px solid grey;
         box-shadow: 0.5vw 0.5vw 1vw black;
         transform: rotate(5deg);
-        position: absolute;
-        margin-right: 5vw;
+        margin-left: 5vw;
     }
     @media (max-width: 800px) {
+        header {
+            display: block;
+        }
+
         h1 {
             font-size: 10vw;
+            margin: 0 auto;
         }
+
         img {
-            width: 50vw;
-            margin-top: 20vw;
-            background: white;
-            padding: 2vw;
-            border: 1px solid grey;
-            box-shadow: 0.5vw 0.5vw 1vw black;
-            transform: rotate(5deg);
+            height: 40vh;
         }
     }
 </style>

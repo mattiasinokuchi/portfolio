@@ -21,7 +21,8 @@
 <style>
     h2 {
         font-size: 4vw;
-        padding-top: 100vh;
+        text-align: center;
+        padding-top: 20vh;
     }
 
     h3 {
@@ -71,8 +72,6 @@
     @media (max-width: 800px) {
         h2 {
             font-size: 8vw;
-            padding-top: 20vw;
-            margin-top: 20vh;
         }
 
         h3 {
