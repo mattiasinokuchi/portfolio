@@ -13,15 +13,7 @@
         </p>
         <p>
             <label for="message">Message</label>
-            <textarea
-                id="message"
-                name="message"
-                placeholder="
-        _      
-      >(')____,
-       (` =~~/
-    ~^~^`---'~^~^~^"
-            />
+            <textarea id="message" name="message" />
         </p>
         <p>
             <button type="submit">Send</button>
