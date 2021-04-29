@@ -39,6 +39,7 @@
         justify-content: space-evenly;
         list-style-type: none;
         text-align: center;
+        padding-left: 0;
     }
 
     li {

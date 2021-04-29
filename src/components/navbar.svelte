@@ -8,9 +8,10 @@
     nav {
         position: fixed;
         top: 1vw;
+        left: 0;
         z-index: 1;
         background: rgb(200, 150, 150, 1);
-        width: 99vw;
+        width: 100%;
         height: 5vw;
         display: flex;
         justify-content: space-evenly;
