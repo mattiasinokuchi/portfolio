@@ -4,7 +4,7 @@
         <!--Hidden input field needed for form handling in Netlify-->
         <input type="hidden" name="form-name" value="contact" />
         <p>
-            <label for="Name">Name</label>
+            <label for="name">Name</label>
             <input type="text" id="name" name="name" />
         </p>
         <p>
@@ -32,8 +32,7 @@
         padding-top: 20vh;
     }
 
-    form,
-    button {
+    form, input, button, textarea {
         text-align: center;
         font-size: 3vw;
     }
@@ -48,11 +47,10 @@
         height: 20vh;
     }
 
-    label {
-        display: block;
-    }
-
     @media (max-width: 800px) {
+        label {
+            display: block;
+        }
         h2 {
             font-size: 7vw;
             margin-top: 20vw;
