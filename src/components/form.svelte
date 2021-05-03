@@ -37,23 +37,36 @@
     button,
     textarea {
         text-align: center;
-        font-size: 3vw;
+        font-size: 2vw;
     }
 
     input,
     textarea {
         width: 40vw;
-        height: 10vh;
+        height: 5vh;
+    }
+
+    label {
+        width: 10vw;
+        display: inline-block;
+        text-align: right;
+    }
+
+    input {
+        width: 40vw;
+        height: 5vh;
     }
 
     textarea {
         height: 20vh;
+        width: 41vw;
     }
 
     @media (max-width: 800px) {
         label {
             display: block;
             margin: 0 auto;
+            text-align: center;
         }
 
         h2 {
