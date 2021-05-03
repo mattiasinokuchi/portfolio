@@ -2,8 +2,9 @@
     import { projects } from "./stores.js";
 </script>
 
-<h2 id="projects">Web projects from past to present</h2>
-
+<h2 id="projects">Projects</h2>
+<h3>from past to present</h3>
+<br>
 <ul>
     {#each $projects as project}
         <li>
@@ -27,6 +28,7 @@
 
     h3 {
         font-size: 3vw;
+        text-align: center;
     }
 
     p {
