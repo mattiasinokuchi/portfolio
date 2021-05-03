@@ -60,12 +60,11 @@
         textarea,
         button {
             font-size: 5vw;
+            width: 80vw;
         }
 
-        input,
-        textarea {
-            width: 80vw;
-            height: 10vh;
+        input {
+            height: 5vh;
         }
 
         textarea {
