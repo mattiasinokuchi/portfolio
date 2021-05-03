@@ -30,7 +30,7 @@
     }
 
     p {
-        font-size: 3vw;
+        font-size: 2vw;
     }
 
     ul {
@@ -44,12 +44,12 @@
 
     li {
         margin-bottom: 10vw;
-        border-radius: 40vw;
+        border-radius: 35vw;
         box-shadow: inset -0.1vw -0.1vw 0.2vw 0.2vw grey,
             inset 0 0 0.5vw 1vw white, inset 2vw 2vw 0.5vw 0.5vw grey,
             inset 0 0 2vw 2vw grey, 1vw 1vw 1vw 1vw rgb(0, 0, 0, 0.7);
-        width: 40vw;
-        height: 40vw;
+        width: 35vw;
+        height: 35vw;
         background: white;
         top: 50%;
     }
@@ -61,7 +61,7 @@
     }
 
     img {
-        width: 25vw;
+        width: 20vw;
         margin-top: 11vw;
     }
 
