@@ -68,7 +68,7 @@
         }
 
         img {
-            height: 40vh;
+            height: 35vh;
         }
     }
 </style>
