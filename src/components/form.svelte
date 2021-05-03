@@ -32,7 +32,10 @@
         padding-top: 20vh;
     }
 
-    form, input, button, textarea {
+    form,
+    input,
+    button,
+    textarea {
         text-align: center;
         font-size: 3vw;
     }
@@ -50,16 +53,23 @@
     @media (max-width: 800px) {
         label {
             display: block;
+            margin: 0 auto;
         }
+
         h2 {
             font-size: 7vw;
             margin-top: 20vw;
         }
 
+        label,
         input,
         textarea,
         button {
             font-size: 5vw;
+        }
+
+        label,
+        input {
             width: 80vw;
         }
 
@@ -69,6 +79,10 @@
 
         textarea {
             height: 20vh;
+        }
+
+        textarea {
+            width: 83vw;
         }
     }
 </style>
