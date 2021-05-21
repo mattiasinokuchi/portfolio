@@ -63,5 +63,12 @@ export let projects = readable([
         href: 'https://re-url.vercel.app',
         alt: 'screenshot of an app which shortens a URL',
         src: 'https://github.com/mattiasinokuchi/serverless-url-shortener/blob/master/screenshot.png?raw=true'
+    },
+    {
+        name: '🙂 Public Doodle',
+        description: 'Classical app I made to learn more Svelte, serverless functions and try FaunaDB.',
+        href: 'https://2-dos.netlify.app',
+        alt: 'screenshot of an app for doodle',
+        src: 'https://github.com/mattiasinokuchi/svelte-netlify-faunadb/raw/master/Screenshot.png'
     }
 ]);
