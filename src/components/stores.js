@@ -3,7 +3,7 @@ import { readable } from 'svelte/store';
 export let projects = readable([
     {
         name: '😀 Multiplication driller',
-        description: 'Made my first web app and discovered it was hard to stop styling things with CSS.',
+        description: 'My first web app written in a text editor. So simple! So fun! I wish I could stay here.',
         href: 'https://mattiasinokuchi.github.io/multiplication/',
         alt: 'screenshot showing eight times nine is equal to seventy-two',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/multiplication/master/screenshot.png'
@@ -24,7 +24,7 @@ export let projects = readable([
     },
     {
         name: '🙂 The little census',
-        description: "My Sister needed a visitor counter due to the Pandemia. Authentication, localization and server rendering...the event was gone long before I learned it :-)",
+        description: "My Sister needed a visitor counter due to the Pandemia. Authentication, localization and server rendering...the event was gone long before I could put it together :-)",
         href: 'http://little-census.se/',
         alt: 'screenshot of an app which counts people',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/little-census/main/screenshot.png'
@@ -38,7 +38,7 @@ export let projects = readable([
     },
     {
         name: '🙂 Issue Tracker',
-        description: 'freeCodeCamp dipped me deeper in back-end programming with Node.js, Express and Mongoose.',
+        description: 'freeCodeCamp dipped me again in back-end programming with Node.js, Express and Mongoose.',
         href: 'https://issue-tracker.mattiasinokuchi.repl.co/',
         alt: 'screenshot of an app for keeping track of issues',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/issue-tracker/gomix/screenshot.png'
@@ -66,7 +66,7 @@ export let projects = readable([
     },
     {
         name: '🙂 Public Doodle',
-        description: 'Classical app I made to learn more Svelte, serverless functions and try FaunaDB.',
+        description: 'More Svelte, serverless functions and experiments with FaunaDB.',
         href: 'https://doo-dle.netlify.app',
         alt: 'screenshot of an app for doodle',
         src: 'https://github.com/mattiasinokuchi/svelte-netlify-faunadb/raw/master/Screenshot.png'
