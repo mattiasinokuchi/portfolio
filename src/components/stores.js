@@ -67,7 +67,7 @@ export let projects = readable([
     {
         name: '🙂 Public Doodle',
         description: 'Classical app I made to learn more Svelte, serverless functions and try FaunaDB.',
-        href: 'https://2-dos.netlify.app',
+        href: 'https://doo-dle.netlify.app',
         alt: 'screenshot of an app for doodle',
         src: 'https://github.com/mattiasinokuchi/svelte-netlify-faunadb/raw/master/Screenshot.png'
     }
