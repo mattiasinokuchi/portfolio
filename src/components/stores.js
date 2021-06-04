@@ -44,13 +44,6 @@ export let projects = readable([
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/issue-tracker/gomix/screenshot.png'
     },
     {
-        name: '😂 Sudoku solver',
-        description: 'Likely to be a memory for the rest of my life from freeCodeCamp. I still get tears in my eyes when I tell people about the moment a soduku solution popped out on the screen.',
-        href: 'https://sudoku-solver.mattiasinokuchi.repl.co',
-        alt: 'screenshot of an app which solves sudoku',
-        src: 'https://raw.githubusercontent.com/mattiasinokuchi/sudoku-solver/master/screenshot.png'
-    },
-    {
         name: '🙂 American / British English Translator',
         description: 'freeCodeCamp challenge. I wonder if I will remember regular expressions like "(?&lt!\\w|-)".',
         href: 'https://american-british-english-translator.mattiasinokuchi.repl.co/',
@@ -70,5 +63,12 @@ export let projects = readable([
         href: 'https://doo-dle.netlify.app',
         alt: 'screenshot of an app for doodle',
         src: 'https://github.com/mattiasinokuchi/svelte-netlify-faunadb/raw/master/Screenshot.png'
+    },
+    {
+        name: '😂 Sudoku solver',
+        description: 'Remake of a freeCodeCamp project I likely will remember. I still get tears in my eyes when I tell people about the moment a soduku solution popped out on the screen.',
+        href: 'https://su-do-ku.netlify.app',
+        alt: 'screenshot of an app which solves sudoku',
+        src: 'https://github.com/mattiasinokuchi/svelte-sudoku-solver/raw/master/Screenshot.png'
     }
 ]);
