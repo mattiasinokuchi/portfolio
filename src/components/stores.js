@@ -66,7 +66,7 @@ export let projects = readable([
     },
     {
         name: '😂 Sudoku solver',
-        description: 'Remake of a freeCodeCamp project I likely will remember. I still get tears in my eyes when I tell people about the moment a soduku solution popped out on the screen.',
+        description: 'Remake of a freeCodeCamp project which I still get tears in my eyes when I tell people about.',
         href: 'https://su-do-ku.netlify.app',
         alt: 'screenshot of an app which solves sudoku',
         src: 'https://github.com/mattiasinokuchi/svelte-sudoku-solver/raw/master/Screenshot.png'
