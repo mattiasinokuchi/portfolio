@@ -76,6 +76,6 @@ export let projects = readable([
         description: 'A Magic Link, Svelte components, FaunaDB, serverless functions...why make it more complicated and slower?',
         href: 'https://magic-svelte.netlify.app',
         alt: 'screenshot of an app which lists personal things',
-        src: 'https://raw.githubusercontent.com/mattiasinokuchi/magic-svelte/master/Screenshot.png'
+        src: 'https://github.com/mattiasinokuchi/magic-svelte/raw/master/Screenshot.png'
     }
 ]);
