@@ -6,11 +6,11 @@
 
     onMount(async () => {
         await delay(1000);
-        showText = "Hi! It's me. Mattias.";
+        showText = "Hi! It's Mattias.";
         await delay(3000);
         showText = false;
         await delay(1000);
-        showText = "I'm Your Web Developer!";
+        showText = "Your Web Developer!";
         await delay(3000);
         showText = false;
         await delay(1000);
