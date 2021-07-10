@@ -6,10 +6,14 @@
 
     onMount(async () => {
         await delay(1000);
-        showText = "Hi! I'm Mattias.";
-        await delay(2000);
+        showText = "Hi! It's me. Mattias.";
+        await delay(3000);
         showText = false;
-        await delay(2000);
+        await delay(1000);
+        showText = "I'm Your Web Developer!";
+        await delay(3000);
+        showText = false;
+        await delay(1000);
         showText = "Welcome to my portfolio!";
     });
 
