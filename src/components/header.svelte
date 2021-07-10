@@ -5,22 +5,22 @@
     let showText;
 
     onMount(async () => {
-        await delay(1000);
-        showText = "Hi! It's Mattias.";
-        await delay(3000);
-        showText = false;
-        await delay(1000);
-        showText = "Your Web Developer!";
-        await delay(3000);
-        showText = false;
-        await delay(1000);
-        showText = "Welcome to my portfolio!";
+        await show("Hi! It's Mattias.");
+        await show("Your Web Developer!");
+        await show("Welcome to my portfolio!");
     });
+
+    async function show(message) {
+        showText = false;
+        await delay(1000);
+        showText = message;
+        await delay(3000);
+    }
 
     function delay(delayInms) {
         return new Promise((resolve) => {
             setTimeout(() => {
-                resolve(2);
+                resolve();
             }, delayInms);
         });
     }
