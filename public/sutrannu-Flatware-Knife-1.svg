@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:cc="http://creativecommons.org/ns#"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    id="svg2"
+    sodipodi:docname="flatware-knife.svg"
+    viewBox="0 0 91.745 878.89"
+    version="1.1"
+    inkscape:version="0.46+devel 22040"
+  >
+  <sodipodi:namedview
+      id="base"
+      bordercolor="#666666"
+      inkscape:pageshadow="2"
+      inkscape:window-y="0"
+      pagecolor="#ffffff"
+      inkscape:window-height="837"
+      inkscape:window-maximized="0"
+      inkscape:zoom="0.67358058"
+      inkscape:window-x="0"
+      showgrid="false"
+      borderopacity="1.0"
+      inkscape:current-layer="layer1"
+      inkscape:cx="-172.36417"
+      inkscape:cy="439.4426"
+      inkscape:window-width="1020"
+      inkscape:pageopacity="0.0"
+      inkscape:document-units="px"
+  />
+  <g
+      id="layer1"
+      inkscape:label="Layer 1"
+      inkscape:groupmode="layer"
+      transform="translate(-447.1 -130.32)"
+    >
+    <path
+        id="path3584-21"
+        sodipodi:nodetypes="cscccczcccc"
+        style="stroke:#000000;stroke-width:3;fill:none"
+        d="m474.04 167.74c5.605-27.156 22.98-35.916 38.71-35.916 14.827 0 21.921 6.1168 22.025 20.249l2.5663 349.19c0 49.759-13.947 46.958-13.048 90.146l10 386.3c0 20-15 30-30 30-14.826 0-30-10-30-30l10-356.23c0.90041-43.245-35.697-38.779-35.697-88.817l25.444-364.92z"
+    />
+    <path
+        id="path3814"
+        sodipodi:nodetypes="cc"
+        style="opacity:.20526;stroke:#000000;stroke-linecap:round;stroke-dasharray:5, 10;stroke-width:5;fill:none"
+        d="m452.3 522.87 24.436-351.05"
+    />
+  </g
+  >
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Flatware Knife</dc:title
+        >
+        <dc:date
+          >2009-10-05T23:49:48</dc:date
+        >
+        <dc:description
+        />
+        <dc:source
+          >https://openclipart.org/detail/27695/flatware-knife-by-sutrannu-27695</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >sutrannu</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >flatware</rdf:li
+            >
+            <rdf:li
+              >knife</rdf:li
+            >
+            <rdf:li
+              >photorealistic</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
