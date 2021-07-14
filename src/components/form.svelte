@@ -1,5 +1,5 @@
 <section>
-    <h2 id="contact">Get in touch with me!</h2>
+    <h2 id="contact">How can I help You?</h2>
     <form name="contact" method="POST" data-netlify="true">
         <!--Hidden input field needed for form handling in Netlify-->
         <input type="hidden" name="form-name" value="contact" />
