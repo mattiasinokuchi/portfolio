@@ -4,7 +4,7 @@
 
 <h2 id="projects">Projects</h2>
 <h3>from past to present</h3>
-<br>
+<br />
 <ul>
     {#each $projects as project}
         <li>
