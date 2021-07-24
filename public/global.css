@@ -1,7 +1,18 @@
 body {
 	background-image:
-		repeating-linear-gradient(90deg,rgb(150, 0, 0, 0.4),rgb(150, 0, 0, 0.4) 5vw, rgb(256, 256, 256, 0.4) 5vw, rgb(256, 256, 256, 0.4) 10vw),
-		repeating-linear-gradient(180deg, rgb(150, 0, 0, 0.4),rgb(150, 0, 0, 0.4) 5vw, rgb(256, 256, 256, 0.4) 5vw, rgb(256, 256, 256, 0.4) 10vw);
+		repeating-linear-gradient(
+			90deg,
+			rgb(150, 0, 0, 0.4),
+			rgb(150, 0, 0, 0.4) 5vw, 
+			rgb(256, 256, 256, 0.4) 5vw, 
+			rgb(256, 256, 256, 0.4) 10vw
+		),
+		repeating-linear-gradient(
+			180deg, 
+			rgb(150, 0, 0, 0.4),
+			rgb(150, 0, 0, 0.4) 5vw, 
+			rgb(256, 256, 256, 0.4) 5vw, 
+			rgb(256, 256, 256, 0.4) 10vw);
 	font-family: 'Courier New', Courier, monospace;
 	color: blue;
 	text-shadow: 0vw 0vw 1vw white, 0vw 0vw 2vw white, 0vw 0vw 3vw white;
