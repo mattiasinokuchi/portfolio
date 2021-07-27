@@ -4,9 +4,9 @@
     </p>
     <p>With the understanding from his work, colleagues, wife and two little childrens he goes to the land of coding.
     </p>
-    <p>A land in the coffee room, bus stop, and mostly...a land in a poorly ventilated scrub in his home. A land in the early mornings and afternoons, filled with HTML, CSS, Javascript and Mattias worst enemy - Captain Time.
+    <p>A land in the coffee room, bus stop, and mostly...a land in a poorly ventilated scrub. A land in the early morning and afternoon, filled with HTML, CSS, Javascript and Mattias worst enemy - Captain Time and villainous Dev Tools.
     </p>
-    <p>Mattias is the story about the boy who never wants to grow up and shows that dreams can come true.
+    <p>Mattias is the story about the boy who never wants to grow up and dreams that can come true.
     </p>
   </section>
   
