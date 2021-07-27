@@ -1,6 +1,6 @@
 <section>
     <h2 id="about">About</h2>
-    <p>This is a story about the bored chemist Mattias. The adventure starts one night when his thoughts flies out the window to a search for his lost passion.
+    <p>This is a story about the bored Swedish chemist Mattias. The adventure starts one night when his thoughts flies out the window to a search for his lost passion.
     </p>
     <p>With the understanding from his work, colleagues, wife and two little childrens he goes to the land of coding.
     </p>
