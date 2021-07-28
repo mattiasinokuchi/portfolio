@@ -17,7 +17,7 @@ export let projects = readable([
     },
     {
         name: 'Online visitor counter',
-        description: 'My Sister needed to count visitors due to the Pandemia. I took the chance to practice authentication, localization and server rendering. Serverless would have made it a lot faster.',
+        description: 'My Sister needed to count visitors due to the Pandemia. I took the chance to practice authentication, localization and server rendering. Also an example of that servers are slow unless you pay for them.',
         href: 'http://little-census.se/',
         alt: 'screenshot of an app which counts people',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/little-census/main/screenshot.png'
