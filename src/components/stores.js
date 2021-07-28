@@ -9,13 +9,6 @@ export let projects = readable([
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/multiplication/master/screenshot.png'
     },
     {
-        name: 'Memory game with Japanese speech synthesis',
-        description: 'I hade little idea what I was doing but lots of fun poking around with code from others.',
-        href: 'https://mattiasinokuchi.github.io/memory/',
-        alt: 'screenshot showing memory game with animals',
-        src: 'https://raw.githubusercontent.com/mattiasinokuchi/memory/master/screenshot.png'
-    },
-    {
         name: 'Seeding machine calculator',
         description: 'An app for my brother-in-law saving him from headache when farming vegetables.',
         href: 'https://mattiasinokuchi.github.io/seedingcalculator/',
