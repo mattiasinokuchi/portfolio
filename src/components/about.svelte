@@ -6,7 +6,7 @@
     </p>
     <p>A land in the coffee room, bus stop, and mostly...a poorly ventilated scrub. Early mornings, lunch breaks and afternoons full of adventures with his friends HTML, CSS, Javascript and the worst enemies - Captain Time and the Development Environment Setup Pirates.
     </p>
-    <p>Mattias is the story about the boy who never wants to grow up and make dreams come true.
+    <p>Mattias is the story about the boy who wants to make dreams come true and never grow up.
     </p>
   </section>
   
