@@ -3,14 +3,14 @@ import { readable } from 'svelte/store';
 export let projects = readable([
     {
         name: 'Multiplication driller',
-        description: 'My first web app written in a text editor. Rediscovering coding was very fun! My app could be seen and used by anybody! I quickly discovered styling with CSS to be the most time consuming part...often amazing things happened by mistake.',
+        description: 'My first web app written in a text editor. Rediscovering coding was very fun! My app could be seen and used by anybody! I quickly discovered styling with CSS to be the most time consuming part and that amazing things could happen by mistake.',
         href: 'https://mattiasinokuchi.github.io/multiplication/',
         alt: 'screenshot showing eight times nine is equal to seventy-two',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/multiplication/master/screenshot.png'
     },
     {
         name: 'Seeding machine calculator',
-        description: 'An app for my brother-in-law saving him from headache when farming vegetables. Keeping the DOM (a model and bridge between the browser and programmer) in sync with the state of my app was tricky using vanilla Javascript.',
+        description: 'An app for my brother-in-law saving him from headache when farming vegetables. Keeping the DOM (a model and bridge to the browser) in sync with the state of my app was tricky using vanilla Javascript.',
         href: 'https://mattiasinokuchi.github.io/seedingcalculator/',
         alt: 'screenshot showing a calculator',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/seedingcalculator/master/screenshot.png'
