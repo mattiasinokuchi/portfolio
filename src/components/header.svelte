@@ -28,7 +28,7 @@
 
 <header>
     <img
-        src="me.jpeg"
+        src="https://raw.githubusercontent.com/mattiasinokuchi/portfolio/main/public/me.jpeg"
         alt="me eating icecream"
     />
     {#if showText}
