@@ -7,11 +7,13 @@
 <br />
 <ul>
     {#each $projects as project}
+        <img id="fork" alt="fork" src="fork.svg" />
         <li>
             <a target="_blank" href={project.href}>
                 <img alt={project.alt} src={project.src} />
             </a>
         </li>
+        <img id="knife" alt="knife" src="knife.svg" />
         <div>
             <h3>{project.name}</h3>
             <p>{project.description}</p>
@@ -67,9 +69,16 @@
         margin-top: 11vw;
     }
 
+    #fork,
+    #knife {
+        height: 25vw;
+        width: 5vw;
+    }
+
     div {
         width: 40vw;
-        margin-bottom: 5vw;
+        margin: 5vw;
+        margin-bottom: 20vw;
     }
 
     @media (max-width: 800px) {
@@ -86,10 +95,10 @@
         }
 
         li {
-            width: 80vw;
-            height: 80vw;
+            width: 70vw;
+            height: 70vw;
             margin-bottom: 1vw;
-            border-radius: 80vw;
+            border-radius: 70vw;
             box-shadow: inset -0.2vw -0.2vw 0.4vw 0.4vw grey,
                 inset 0 0 1vw 2vw white, inset 4vw 4vw 1vw 1vw grey,
                 inset 0 0 4vw 4vw grey, 2vw 2vw 2vw 2vw rgb(0, 0, 0, 0.7);
@@ -97,12 +106,18 @@
 
         div {
             width: 90vw;
-            margin-bottom: 10vw;
+            margin-bottom: 20vw;
         }
 
         img {
-            width: 50vw;
+            width: 40vw;
             margin-top: 22vw;
+        }
+
+        #fork,
+        #knife {
+            height: 50vw;
+            width: 10vw;
         }
     }
 </style>
