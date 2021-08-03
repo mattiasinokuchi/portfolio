@@ -51,7 +51,7 @@
         border-radius: 35vw;
         box-shadow: inset -0.1vw -0.1vw 0.2vw 0.2vw grey,
             inset 0 0 0.5vw 1vw white, inset 2vw 2vw 0.5vw 0.5vw grey,
-            inset 0 0 2vw 2vw grey, 1vw 1vw 1vw 1vw rgb(0, 0, 0, 0.7);
+            inset 0 0 2vw 2vw grey, 1vw 1vw 1vw 0.2vw rgb(0, 0, 0, 0.6);
         width: 35vw;
         height: 35vw;
         background: white;
@@ -103,7 +103,7 @@
             border-radius: 70vw;
             box-shadow: inset -0.2vw -0.2vw 0.4vw 0.4vw grey,
                 inset 0 0 1vw 2vw white, inset 4vw 4vw 1vw 1vw grey,
-                inset 0 0 4vw 4vw grey, 2vw 2vw 2vw 2vw rgb(0, 0, 0, 0.7);
+                inset 0 0 4vw 4vw grey, 2vw 2vw 2vw 0.4vw rgb(0, 0, 0, 0.6);
         }
 
         div {
