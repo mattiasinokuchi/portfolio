@@ -74,6 +74,7 @@
         fill: blue;
         height: 25vw;
         width: 5vw;
+        filter: drop-shadow(0.5vw 0.5vw 0.2vw rgb(0 0 0 / 0.4));
     }
 
     div {
@@ -119,6 +120,7 @@
         #knife {
             height: 50vw;
             width: 10vw;
+            filter: drop-shadow(1vw 1vw 0.4vw rgb(0 0 0 / 0.4));
         }
     }
 </style>
