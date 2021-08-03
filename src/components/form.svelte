@@ -59,7 +59,10 @@
 
     textarea {
         height: 20vh;
-        width: 41vw;
+    }
+
+    button {
+        width: 10vw;
     }
 
     @media (max-width: 800px) {
@@ -82,7 +85,8 @@
         }
 
         label,
-        input {
+        input,
+        textarea {
             width: 80vw;
         }
 
@@ -94,8 +98,8 @@
             height: 20vh;
         }
 
-        textarea {
-            width: 83vw;
+        button {
+            width: 20vw;
         }
     }
 </style>

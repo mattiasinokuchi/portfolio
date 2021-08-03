@@ -21,3 +21,8 @@ body {
 	color: blue;
 	text-shadow: 0vw 0vw 1vw white, 0vw 0vw 2vw white, 0vw 0vw 3vw white;
 }
+
+button {
+	font-family: 'Courier New', Courier, monospace;
+	color: blue;
+}
