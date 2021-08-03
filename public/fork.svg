@@ -41,10 +41,20 @@
       inkscape:groupmode="layer"
       transform="translate(-225.82 -139.95)"
     >
+    <defs>
+      <linearGradient id="linearGradient1" x1="0" x2="0" y1="0" y2="1">
+        <stop offset="0%" stop-color="silver"/>
+        <stop offset="20%" stop-color="silver"/>
+        <stop offset="25%" stop-color="white"/>
+        <stop offset="30%" stop-color="silver"/>
+        <stop offset="35%" stop-color="silver"/>
+        <stop offset="40%" stop-color="white"/>
+      </linearGradient>
+    </defs>
     <path
         id="path3584"
         sodipodi:nodetypes="ccccccccccccccccczcccc"
-        style="stroke:white;stroke-width:3;fill:grey"
+        fill="url(#linearGradient1)"
         d="m234.76 148.95c0-10 10-10 10 0l7.7765 161.89c0 10.002 9.7404 10 9.7404 0l7.48-161.89c0-10 10-10 10 0l7.4675 161.89c0 10 10.089 10.051 10.099 0l7.43-161.89c0-10 10-10 10 0l7.7522 161.89c-0.18583 10 9.8142 10 9.8142 0l7.44-161.89c0-10 10-10 10 0l7.5663 189.9c0 49.759-45.899 46.958-45 90.146l10 480.28c0 20-15 30-30 30-14.826 0-30-10-30-30l10-480.28c0.90041-43.245-45-40.108-45-90.146l7.4337-189.9z"
     />
   </g

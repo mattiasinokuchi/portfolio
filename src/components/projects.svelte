@@ -71,6 +71,7 @@
 
     #fork,
     #knife {
+        fill: blue;
         height: 25vw;
         width: 5vw;
     }
