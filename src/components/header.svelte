@@ -6,7 +6,7 @@
 
     onMount(async () => {
         await show("Hi! I'm Mattias.");
-        await show("Your Web Developer!");
+        await show("Your Junior Web Developer!");
         await show("Welcome to my portfolio!");
     });
 
