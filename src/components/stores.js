@@ -23,13 +23,6 @@ export let projects = readable([
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/little-census/main/screenshot.png'
     },
     {
-        name: 'American / British English Translator',
-        description: 'A freeCodeCamp project. I learned (and forgot) regular expressions. "(?&lt!\\w|-)" still looks a lot like swearing to me',
-        href: 'https://american-british-english-translator.mattiasinokuchi.repl.co/',
-        alt: 'screenshot of an app which translates between american and brittish english',
-        src: 'https://raw.githubusercontent.com/mattiasinokuchi/american-british-english-translator/master/screenshot.png'
-    },
-    {
         name: 'Make long links shorter',
         description: 'My first back-end challenge at freeCodeCamp was as exciting as my first app. Something out there responded to me! Later on I discovered how to make my backend projects work a lot faster at no cost using serverless functions.',
         href: 'https://re-url.vercel.app',
