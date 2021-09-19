@@ -17,14 +17,13 @@
     >
   </p>
   <p>
-    I am not using
     <a
       id="profile-link"
-      href="https://www.humanetech.com/"
+      href="https://www.thesocialdilemma.com/"
       target="_blank"
-      rel="noopener noreferrer"> 'social media' </a
+      rel="noopener noreferrer">Social media?</a
     >
-    except for Discord (send your tag to me below if you like)
+     I am on Discord (send your tag if you want to meet up there)
   </p>
 </section>
 
