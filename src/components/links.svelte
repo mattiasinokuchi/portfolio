@@ -23,7 +23,9 @@
       target="_blank"
       rel="noopener noreferrer">Social media?</a
     >
-     I am on Discord (send your tag if you want to meet up there)
+  </p>
+  <p>
+    I'm on Discord (send your tag if you want to meet up there)
   </p>
 </section>
 
