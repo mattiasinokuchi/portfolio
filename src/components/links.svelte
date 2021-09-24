@@ -25,7 +25,7 @@
     >
   </p>
   <p>
-    I'm on Discord (send your tag if you want to meet up there)
+    Send your Discord tag if you want to meet up there
   </p>
 </section>
 
