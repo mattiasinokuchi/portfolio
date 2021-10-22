@@ -18,7 +18,7 @@ export let projects = readable([
     {
         name: 'Online visitor counter',
         description: 'My Sister needed to count visitors due to the Pandemia. I took the chance to practice authentication, localization and server rendering. An example of how slow servers are (unless you pay for them).',
-        href: 'http://little-census.se/',
+        href: 'https://gentle-plains-21871.herokuapp.com/',
         alt: 'screenshot of an app which counts people',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/little-census/main/screenshot.png'
     },
