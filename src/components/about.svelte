@@ -4,7 +4,7 @@
     </p>
     <p>With the understanding from his work, colleagues, wife and two children he goes to the land of coding.
     </p>
-    <p>A land in the coffee room, bus stop, and mostly...a poorly ventilated scrub. Early mornings, introvert lunch breaks and afternoons dissolving in devotion, despair and dopamine kicks.
+    <p>A land in the coffee room, bus stop, and mostly...a poorly ventilated scrub. Early mornings, introvert lunch breaks and afternoons dissolving in devotion, despair and hallelujah moments.
     </p>
   </section>
   

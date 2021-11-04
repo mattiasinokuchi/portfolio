@@ -17,14 +17,14 @@ export let projects = readable([
     },
     {
         name: 'Online visitor counter',
-        description: 'My Sister needed to count visitors due to the Pandemia. I took the chance to practice authentication, localization and server rendering. An example of how slow servers are (unless you pay for them).',
+        description: 'My Sister needed to count visitors due to the Pandemia. I took the chance to practice authentication, localization and server rendering. An example of how slow servers wakes up (unless you pay for them).',
         href: 'https://gentle-plains-21871.herokuapp.com/',
         alt: 'screenshot of an app which counts people',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/little-census/main/screenshot.png'
     },
     {
         name: 'Make long links shorter',
-        description: 'My first back-end challenge at freeCodeCamp was as exciting as my first app. Something out there responded to me! Later on I discovered how to make my backend projects work a lot faster at no cost using serverless functions.',
+        description: 'My first back-end challenge at freeCodeCamp was as exciting as my first app. Something out there responded to me! Later on I discovered how to make my backend projects faster at no cost using serverless functions.',
         href: 'https://re-url.vercel.app',
         alt: 'screenshot of an app which shortens a URL',
         src: 'https://github.com/mattiasinokuchi/serverless-url-shortener/blob/master/screenshot.png?raw=true'
@@ -42,5 +42,12 @@ export let projects = readable([
         href: 'https://magic-svelte.netlify.app',
         alt: 'screenshot of an app which lists personal things',
         src: 'https://github.com/mattiasinokuchi/magic-svelte/raw/master/Screenshot.png'
+    },
+    {
+        name: 'Small Farm ERP (under construction)',
+        description: 'My new bold project. I am picking up SvelteKit (beta version with serverless flaws) and PostgreSQL. The mission is to become a full stack immortal and help small farmers to keep track of their business.',
+        href: 'https://boss-farm.herokuapp.com',
+        alt: 'screenshot showing a delivery',
+        src: 'https://github.com/mattiasinokuchi/veggies/raw/master/Screenshot.png'
     }
 ]);
