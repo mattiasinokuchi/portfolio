@@ -45,7 +45,7 @@ export let projects = readable([
     },
     {
         name: 'Small Farm ERP (under construction)',
-        description: 'My new bold project. I am picking up SvelteKit (beta version with serverless flaws) and PostgreSQL. The mission is to become a full stack immortal and help small farmers to keep track of their business.',
+        description: 'My new bold project. I am picking up SvelteKit (beta version with serverless flaws) and PostgreSQL to help small scale farmers to keep track of their business.',
         href: 'https://boss-farm.herokuapp.com',
         alt: 'screenshot showing a delivery',
         src: 'https://github.com/mattiasinokuchi/veggies/raw/master/Screenshot.png'
