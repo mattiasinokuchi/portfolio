@@ -10,28 +10,28 @@ export let projects = readable([
     },
     {
         name: 'Seeding machine calculator',
-        description: 'An app for my brother-in-law saving him from headache when farming vegetables. Keeping the DOM (a model for the browser) in sync with the state of my app was a pain (using plain Javascript).',
+        description: 'An app for my brother-in-law saving him from headache when farming. Keeping the DOM (a model for the browser) in sync with the state of my app was a pain (using plain Javascript).',
         href: 'https://mattiasinokuchi.github.io/seedingcalculator/',
         alt: 'screenshot showing a calculator',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/seedingcalculator/master/screenshot.png'
     },
     {
         name: 'Online visitor counter',
-        description: 'My Sister needed to count visitors due to the Pandemia. I took the chance to practice authentication, localization and server rendering. An example of how slow servers wakes up (unless you pay for them).',
+        description: 'My Sister needed to count visitors due to the Pandemia. I took the chance to practice authentication, localization and server rendering. The app was deployed for free the good old fashion (slowly awakening server).',
         href: 'https://gentle-plains-21871.herokuapp.com/',
         alt: 'screenshot of an app which counts people',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/little-census/main/screenshot.png'
     },
     {
         name: 'Make long links shorter',
-        description: 'My first back-end challenge at freeCodeCamp was as exciting as my first app. Something out there responded to me! Later on I discovered how to make my backend projects faster at no cost using serverless functions.',
+        description: 'My first back-end challenge at freeCodeCamp was as exciting as my first app. Something out there responded to me! Later on I discovered how to avoid sleeping servers at no cost using serverless functions.',
         href: 'https://re-url.vercel.app',
         alt: 'screenshot of an app which shortens a URL',
         src: 'https://github.com/mattiasinokuchi/serverless-url-shortener/blob/master/screenshot.png?raw=true'
     },
     {
         name: 'Sudoku solver',
-        description: 'I still get tears in my eyes when I talk about the moment this freeCodeCamp project started to work. I thought it deserved a remake with better front and Svelte was my only option here.',
+        description: 'I still get tears in my eyes when I talk about the moment this freeCodeCamp project started to work. I thought it deserved a remake with better front. A user interface with 9x9 inputs left me with Svelte as the only framework.',
         href: 'https://su-do-ku.netlify.app',
         alt: 'screenshot of an app which solves sudoku',
         src: 'https://github.com/mattiasinokuchi/svelte-sudoku-solver/raw/master/Screenshot.png'
@@ -45,7 +45,7 @@ export let projects = readable([
     },
     {
         name: 'Small Farm ERP (under construction)',
-        description: 'My new bold project. I am picking up SvelteKit (beta version with serverless flaws) and PostgreSQL. The mission is to become a full stack immortal and help small farmers to keep track of their business.',
+        description: 'My new bold project. I am picking up SvelteKit and PostgreSQL to help my brother-in-law (again) to keep track of the business.',
         href: 'https://boss-farm.herokuapp.com',
         alt: 'screenshot showing a delivery',
         src: 'https://github.com/mattiasinokuchi/veggies/raw/master/Screenshot.png'
