@@ -17,7 +17,7 @@ export let projects = readable([
     },
     {
         name: 'Online visitor counter',
-        description: 'My Sister needed to count visitors due to the Pandemia. I took the chance to practice authentication, localization and server rendering. The app was deployed for free the good old fashion (slowly awakening server).',
+        description: 'My Sister needed to count visitors due to the Pandemia. I took the chance to practice authentication, localization, server-side rendering (free and slowly awakening).',
         href: 'https://gentle-plains-21871.herokuapp.com/',
         alt: 'screenshot of an app which counts people',
         src: 'https://raw.githubusercontent.com/mattiasinokuchi/little-census/main/screenshot.png'
@@ -45,7 +45,7 @@ export let projects = readable([
     },
     {
         name: 'Small Farm ERP (under construction)',
-        description: 'My new bold project. I am picking up SvelteKit (still in beta version) and PostgreSQL to help my brother-in-law (again) to keep track of the business. Flaws with bundling node-postgres modules prevents serverless deployment at the moment.',
+        description: 'My new bold project. Thanks to my brother-in-law I found a reason to pick up SvelteKit (still in beta version) and PostgreSQL to help him keeping track of the business.',
         href: 'https://boss-farm.herokuapp.com',
         alt: 'screenshot showing a delivery',
         src: 'https://github.com/mattiasinokuchi/veggies/raw/master/Screenshot.png'

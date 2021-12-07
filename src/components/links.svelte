@@ -24,9 +24,6 @@
       rel="noopener noreferrer">Social media?</a
     >
   </p>
-  <p>
-    Send your Discord tag if you want to meet up there
-  </p>
 </section>
 
 <style>
