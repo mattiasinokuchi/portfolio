@@ -48,6 +48,6 @@ export let projects = readable([
         description: 'My new bold project. Thanks to my brother-in-law I found a reason to pick up SvelteKit (still in beta version) and PostgreSQL to help him keeping track of the business.',
         href: 'https://boss-farm.herokuapp.com',
         alt: 'screenshot showing a delivery',
-        src: 'https://github.com/mattiasinokuchi/veggies/raw/master/Screenshot.png'
+        src: 'https://github.com/mattiasinokuchi/veggies/raw/master/screenshot.png'
     }
 ]);
