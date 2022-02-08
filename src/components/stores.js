@@ -44,9 +44,9 @@ export let projects = readable([
         src: 'https://github.com/mattiasinokuchi/magic-svelte/raw/master/Screenshot.png'
     },
     {
-        name: 'Small Farm ERP (under construction)',
-        description: 'My new bold project. Thanks to my brother-in-law I found a reason to pick up SvelteKit (still in beta version) and PostgreSQL to help him keeping track of the business.',
-        href: 'https://boss-farm.herokuapp.com',
+        name: 'Small Farm ERP',
+        description: 'Thanks to my brother-in-law I found a reason to pick up SvelteKit and PostgreSQL to help him keeping track of the business.',
+        href: 'https://my-gapp.herokuapp.com',
         alt: 'screenshot showing a delivery',
         src: 'https://github.com/mattiasinokuchi/veggies/raw/master/screenshot.png'
     }
