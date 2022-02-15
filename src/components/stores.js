@@ -46,7 +46,7 @@ export let projects = readable([
     {
         name: 'Small Farm ERP',
         description: 'Thanks to my brother-in-law I found a reason to pick up SvelteKit and PostgreSQL to help him keeping track of the business.',
-        href: 'https://boss-farm.herokuapp.com',
+        href: 'https://my-gapp.herokuapp.com',
         alt: 'screenshot showing a delivery',
         src: 'https://github.com/mattiasinokuchi/veggies/raw/master/screenshot.png'
     }
