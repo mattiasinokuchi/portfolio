@@ -20,7 +20,7 @@ export let projects = readable([
         description: 'My first back-end challenge at freeCodeCamp was as exciting as my first app. Something out there responded to me! Later on I discovered how to avoid sleeping servers at no cost using serverless functions.',
         href: 'https://re-url.vercel.app',
         alt: 'screenshot of an app which shortens a URL',
-        src: 'https://github.com/mattiasinokuchi/serverless-url-shortener/blob/master/screenshot.png?raw=true'
+        src: 'https://github.com/mattiasinokuchi/serverless-url-shortener/raw/master/screenshot.png'
     },
     {
         name: 'Sudoku solver',
@@ -31,7 +31,7 @@ export let projects = readable([
     },
     {
         name: 'Small Farm ERP',
-        description: 'Thanks to my brother-in-law I found a reason to pick up SvelteKit and PostgreSQL to help him keeping track of the business.',
+        description: 'My brother-in-law gave me a reason to pick up SvelteKit and PostgreSQL to help him keeping track of the business. Since SvelteKit is fresh and lacks major support I had to put together the authentication and session management with Auth0 and Redis APIs.',
         href: 'https://my-gapp.herokuapp.com',
         alt: 'screenshot showing a delivery',
         src: 'https://github.com/mattiasinokuchi/veggies/raw/master/screenshot.png'
