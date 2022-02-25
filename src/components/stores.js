@@ -24,7 +24,7 @@ export let projects = readable([
     },
     {
         name: 'Sudoku solver',
-        description: 'I still get tears in my eyes when I talk about the moment this freeCodeCamp project started to work. I thought it deserved a remake with better front. 81 inputs made me using the Svelte framework.',
+        description: 'I still get tears in my eyes when I talk about the moment this freeCodeCamp project started to work. I thought it deserved a better user interface and the 81 number inputs encouraged me to use the Svelte framework.',
         href: 'https://su-do-ku.netlify.app',
         alt: 'screenshot of an app which solves sudoku',
         src: 'https://github.com/mattiasinokuchi/svelte-sudoku-solver/raw/master/Screenshot.png'
