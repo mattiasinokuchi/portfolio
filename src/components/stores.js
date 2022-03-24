@@ -33,7 +33,7 @@ export let projects = readable([
         name: 'Small Farm ERP',
         description: 'My brother-in-law gave me a reason to pick up SvelteKit and PostgreSQL to help him keeping track of the business. Since SvelteKit is fresh and lacks major support I had to put together the authentication and session management with Auth0 and Redis APIs.',
         href: 'https://bossa.herokuapp.com',
-        alt: 'screenshot showing a delivery',
-        src: 'https://github.com/mattiasinokuchi/veggies/raw/master/screenshot.png'
+        alt: 'screenshot showing products',
+        src: 'https://github.com/mattiasinokuchi/my-gapp/raw/master/screenshot.png'
     }
 ]);
